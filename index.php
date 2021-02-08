@@ -19,6 +19,8 @@ body { background: white }
 <center>
 <font color="gold";>
 <h2>Privet from Belarus</h2>
+<p><font color="red">This is deploying release from git to AWS ELASTICBeanstalk</font></p>
+
 </font>
 </center>
 </body>
