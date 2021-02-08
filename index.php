@@ -12,7 +12,7 @@ else
 <html>
 <head>
 <style>
-body { background: white }
+body { background: black }
 </style>
 </head>
 <body>
